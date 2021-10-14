@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Finan.zen](https://github.com/colaresAmanda/finan.zen)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and JS**
 
 - 📫 How to reach me **colares.amd@gmail.com**
 
