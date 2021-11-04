@@ -2,7 +2,7 @@
 <h1 >Hi 👋, I'm Amanda</h1>
 <h3 >A passionate web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Finan.zen](https://github.com/colaresAmanda/finan.zen)
+- 🔭 I’m currently working on [Amor&Arte](https://github.com/colaresAmanda/amorEarte)
 
 - 🌱 I’m currently learning **C# and JS**
 
