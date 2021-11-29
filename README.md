@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&theme=dark">
 <h1>Hi 👋, I'm Amanda</h1>
-<h3>A passionate frontend developer from Brazil</h3>
+<h3>A passionate backend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Amor&Arte](https://github.com/colaresAmanda/amorEarte.git)
 
