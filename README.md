@@ -1,8 +1,10 @@
 
 
 
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amanda Colares</h1>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&theme=tokyonight&title_color=#9373BF">
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amanda Colares</h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api/wakatime?username=colaresAmanda&theme=gotham">
+
+
 <h3>A high school student from Brazil learning about web development.</h3>
 
 - 🔭 I’m currently working on [Raphael Brusque](https://github.com/colaresAmanda/Raphael-Brusque.git)
