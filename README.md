@@ -7,7 +7,7 @@
 
 <h3>A high school student from Brazil learning about web development.</h3>
 
-- 🔭 I’m currently working on [Raphael Brusque](https://github.com/colaresAmanda/Raphael-Brusque.git)
+- 🔭 I’m currently working on [Cruzamendel](https://github.com/colaresAmanda/cruzamendel)
 
 - 🌱 I’m currently learning **JavaScript**
 
