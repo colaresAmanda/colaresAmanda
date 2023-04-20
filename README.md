@@ -2,7 +2,9 @@
 
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amanda Colares</h1>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&theme=apprentice">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
+
+
 
 
 <h3>A web developer who is searching for knowledge</h3>
