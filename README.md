@@ -5,13 +5,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&theme=apprentice">
 
 
-<h3>A high school student from Brazil learning about web development.</h3>
+<h3>A web developer who is searching for knowledge</h3>
 
-- 🔭 I’m currently working on [Cruzamendel](https://github.com/colaresAmanda/cruzamendel)
+- 🔭 I’m currently working on [Portal Raphael Brusque](https://github.com/colaresAmanda/portal-raphael-brusque)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **express**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **colares.amd@gmail.com || aman_daa#3943 (discord)**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
