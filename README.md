@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.instagram.com/colaresamanda_/" target="_blank">![Instagram](https://img.shields.io/badge/colaresAmanda_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="https://twitter.com/colaresAmanda_" target="_blank">![Twitter](https://img.shields.io/badge/colaresAmanda_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a><a href="https://www.linkedin.com/in/amanda-colares-88298821a/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/colaresamanda_/" target="_blank">![Instagram](https://img.shields.io/badge/colaresAmanda_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="https://www.linkedin.com/in/colaresamanda/">![LinkedIn](https://img.shields.io/badge/colaresAmanda-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
