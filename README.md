@@ -1,23 +1,12 @@
-
-
-
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Amanda Colares</h1>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=colaresAmanda&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats">
 
-
-
-
 <h3>Exploring computer engineering and psychology, and starting a journey into machine learning.</h3>
-
 
 - 🔭 Currently working on ScoreSync
 - 💡 Envisioning a new approach for mood tracking.
-
-  
-- 📫 How to reach me **colares.amd@gmail.com || aman_daa#3943 (discord)**
-
-
-
+- 📫 How to reach me: **colares.amd@gmail.com**
+- 📷 Follow me on Instagram: [@the_nyxlab (PT-BR)](https://www.instagram.com/the_nyxlab) | [@nyxlab_en (EN)](https://www.instagram.com/nyxlab_en)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,6 +23,3 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
